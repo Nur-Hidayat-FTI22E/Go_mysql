@@ -1,0 +1,31 @@
+{
+    "$schema": "https://dbclient-release.oss-cn-hongkong.aliyuncs.com/dbclient/schema.json",
+    "database": {
+        "1693835606157": {
+            "host": "127.0.0.1",
+            "port": 3306,
+            "user": "root",
+            "password": "Nra1223004",
+            "dbType": "MySQL",
+            "database": "belajar_golang_database",
+            "name": "go_db",
+            "timezone": "+00:00",
+            "usingSSH": false,
+            "useSocksProxy": false,
+            "global": false,
+            "savePassword": "Forever",
+            "hideSystemSchema": true,
+            "readonly": false,
+            "sort": 11,
+            "group": "2",
+            "useSSL": false,
+            "encrypt": true,
+            "authType": "default",
+            "esAuth": "none",
+            "showHidden": true,
+            "srv": false,
+            "key": "1693835606157",
+            "connectionKey": "database.connections"
+        }
+    }
+}
